@@ -1,0 +1,4 @@
+node_modules/
+
+smtp_secrets.sh
+package-lock.json
