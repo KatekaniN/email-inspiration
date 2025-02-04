@@ -19,7 +19,7 @@ Before you can run the project, make sure you have the following installed:
 ├── 📄 quotes.json – Contains the JSON object of inspirational quotes <br>
 ├── 📄 email-service.js – Handles sending emails via Nodemailer <br>
 ├── 📄 smtp_secrets.sh – Stores your SMTP credentials (environment variables) <br>
-├── 📄 email-random.js – Main entry point to send the email <br>`
+├── 📄 email-random.js – Main entry point to send the email <br>
 ├── 📄 package.json – Project dependencies and scripts <br>
 └── 📄 README.md – Documentation file
 
