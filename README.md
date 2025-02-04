@@ -13,15 +13,15 @@ Before you can run the project, make sure you have the following installed:
     •	An SMTP server (Brevo)
     •	A valid email account and SMTP credentials for sending emails
 
-Project Structure
+### Project Structure
 
-email-inspirational-quote/
-├── quotes.json # Contains the JSON object of inspirational quotes
-├── email-service.js # Handles sending emails via Nodemailer
-├── smtp_secrets.sh # Stores your SMTP credentials (environment variables)
-├── email-random.js # Main entry point to send the email
-├── package.json # Project dependencies and scripts
-└── README.md # Documentation file
+📂 email-inspirational-quote/
+├── 📄 quotes.json – Contains the JSON object of inspirational quotes
+├── 📄 email-service.js – Handles sending emails via Nodemailer
+├── 📄 smtp_secrets.sh – Stores your SMTP credentials (environment variables)
+├── 📄 email-random.js – Main entry point to send the email
+├── 📄 package.json – Project dependencies and scripts
+└── 📄 README.md – Documentation file
 
 ### Steps to Run the Project
 
