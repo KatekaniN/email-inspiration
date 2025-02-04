@@ -54,11 +54,13 @@ The project uses environment variables for SMTP credentials stored in a file nam
     •	Create a file called smtp_secrets.sh in the root of your project directory.
     •	Add your SMTP settings:
 
+```
 #!/bin/sh
 export SMTP_SERVER=smtp-relay.brevo.com # Replace with your SMTP server
 export SMTP_PORT=587 # SMTP port (default for Brevo is 587)
 export SMTP_LOGIN=your-email@example.com # Replace with your SMTP login email
 export SMTP_PASS=your-smtp-password # Replace with your SMTP password
+```
 
 #### 4. Modify Email Sender
 
